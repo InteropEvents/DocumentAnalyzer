@@ -26,7 +26,7 @@ In this repo there is a sample console app that uses the [OpenXML SDK](https://g
 
 - Clone this repository to your local system.
 
-  `git clone xxxxxxxxxxxxxxxxxxxxxxxx`
+  `git clone https://github.com/InteropEvents/DocumentAnalyzer.git`
 
     **Pro tip:** Clone the repo low in your folder hierarchy to avoid path length issues e.g. `C:\myrepos`
 
